@@ -16,3 +16,5 @@ public class NegativeAmountException extends RuntimeException {
     }
 
 }
+
+//Lägger bara till en kommentar.
